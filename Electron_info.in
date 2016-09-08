@@ -30,9 +30,9 @@ DoDiscrByIsolation 1
 IsoSumPtCutValue 0.0 0.30
 
 DoDiscrByVetoID 0
-DoDiscrByLooseID 1
+DoDiscrByLooseID 0
 DoDiscrByMediumID 0
-DoDiscrByTightID 0
+DoDiscrByTightID 1
 DoDiscrByHEEPID 0
 DoDiscrByMVA1ID 0
 DoDiscrByMVA2ID 0
@@ -59,9 +59,9 @@ DoDiscrByIsolation 0
 IsoSumPtCutValue 0.0 0.2
 
 DoDiscrByVetoID 0
-DoDiscrByLooseID 1
+DoDiscrByLooseID 0
 DoDiscrByMediumID 0
-DoDiscrByTightID 0
+DoDiscrByTightID 1
 DoDiscrByHEEPID 0
 DoDiscrByMVA1ID 0
 DoDiscrByMVA2ID 0
