@@ -28,7 +28,7 @@ RecoMetCut 180.0 10000.0
 
 DiscrByMHT false
 MhtCut 50.0
-DiscrByHT true
+DiscrByHT false
 HtCut 300.0
 
 JetPtForMhtAndHt 30.0        
