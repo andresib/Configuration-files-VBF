@@ -50,8 +50,8 @@ LeadTrackThreshold 3.0
 
 DoDiscrByIsolation true
 DiscrByMinIsolation ZERO
-DiscrByMaxIsolation byTightCombinedIsolationDeltaBetaCorr3Hits
-
+#DiscrByMaxIsolation byTightCombinedIsolationDeltaBetaCorr3Hits
+DiscrByMaxIsolation byTightIsolationMVArun2v1DBnewDMwLT
 DiscrByProngType 1hps
 
   #####List of Electron Discriminators#####
@@ -108,8 +108,8 @@ LeadTrackThreshold 5.0
 
 DoDiscrByIsolation true
 DiscrByMinIsolation ZERO
-DiscrByMaxIsolation byTightCombinedIsolationDeltaBetaCorr3Hits
-
+#DiscrByMaxIsolation byTightCombinedIsolationDeltaBetaCorr3Hits
+DiscrByMaxIsolation byTightIsolationMVArun2v1DBnewDMwLT
 DiscrByProngType 1hps
 
 DoDiscrAgainstElectron 1
@@ -139,5 +139,6 @@ MetDphiCut 1.30   3.15
 
 DiscrByMetMt 0
 MetMtCut 0.0 40.0
+
 
 

@@ -24,10 +24,10 @@ MotherID 23.
 //---RECO CUTS---///
 
 EtaCut 2.1
-PtCut 10.0 9999.9
+PtCut 10.0 40.0
 
 DoDiscrByIsolation 1
-IsoSumPtCutValue 0.0 0.25
+IsoSumPtCutValue 0.0 0.20
 
 DoDiscrByVetoID 0
 DoDiscrByLooseID 0
@@ -42,8 +42,8 @@ DiscrIfIsZdecay 0
 DiscrByMetDphi 0
 MetDphiCut 1.70 3.15
 
-DiscrByMetMt 0
-MetMtCut 0. 40.
+DiscrByMetMt 1
+MetMtCut 0. 110.
 
 ////////////////////////////////
              Elec2
@@ -52,10 +52,10 @@ MetMtCut 0. 40.
 //---RECO CUTS---///
 
 EtaCut 2.1
-PtCut 10.0 9999.9
+PtCut 10.0 40.0
 
 DoDiscrByIsolation 1
-IsoSumPtCutValue 0.0 0.25
+IsoSumPtCutValue 0.0 0.20
 
 DoDiscrByVetoID 0
 DoDiscrByLooseID 0
@@ -70,6 +70,6 @@ DiscrIfIsZdecay 0
 DiscrByMetDphi 0
 MetDphiCut 1.30 3.15
 
-DiscrByMetMt 0
-MetMtCut 10. 100.
+DiscrByMetMt 1
+MetMtCut 0. 110.
 
